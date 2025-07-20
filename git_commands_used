@@ -69,3 +69,29 @@ git add index.js
  2083  git remote -v
  2083  git remote -v
  2083  git remote -v
+  1972  git add .
+ 1973  git commit -m "changing branch"
+ 1974  git checkout main
+ 1975  git add . 
+ 1976  git commit -m "newfunction added number 4 "
+ 1977  git push origin main 
+ 1978  git checkout darshan
+ 1979  git pull origin main 
+ 1980  git config pull.rebase false
+ 1981  git pull origin main 
+ 1982  git add . 
+ 1983  git commit -m "solved merge conflit "
+ 1984  git pull origin main 
+ 1985  git add . 
+ 1986  git commit -m "function 5 "
+ 1987  git push origin darshan
+ 1988  git log --oneline
+ 1989  git show 2becb67 
+ 1990  git add .
+ 1991  git commit -m "function 6"
+ 1992  git checkout main
+ 1993  git add . 
+ 1994  git commit -m "rebase "
+ 1995  git rebase darshan
+ 1996  git log 
+ 1997  git log --oneline
