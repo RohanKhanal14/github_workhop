@@ -14,3 +14,6 @@ console.log("i am in nischal branch");
 function exampleFunction() {
   console.log("This is an example function.");
 }
+function exampleFunction2() {
+  console.log("This is an example function.");
+}
