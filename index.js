@@ -23,3 +23,6 @@ function exampleFunction3() {
 function exampleFunction4() {
   console.log("This is an example function.");
 }
+function exampleFunction5() {
+  console.log("This is an example function.");
+}
