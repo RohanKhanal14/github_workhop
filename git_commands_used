@@ -13,3 +13,57 @@ git add index.js
   git add index.js 
   git status 
   git add .
+  2030  git commit -m "fist-commit"
+ 2031  git status 
+ 2032  git add . 
+ 2033  git commit -m "function to add two numbers "
+ 2034  git add .
+ 2035  git commit -m "sub.div"
+ 2036  git log 
+ 2037  git reset --hard head~1
+ 2038  git reset --hard HEAD~1
+ 2039  git commit -m "sub.div"
+ 2040  git add . 
+ 2041  git commit -m "sub.div"
+ 2042  git log 
+ 2043  git log --oneline
+ 2044  git add .
+ 2045  git commit -m "revert demo"
+ 2046  git log --oneline
+ 2047  git reset --hard HEAD~1
+ 2048  git log --oneline
+ 2049  git add .
+ 2050  git commit -m "revert demo2"
+ 2051  clear
+ 2052  git log --oneline 
+ 2053  git reset --hard 2becb67
+ 2054  git branch "Nischal"
+ 2055  git branch 
+ 2056  git checkout Nischal
+ 2057  git checkout Master 
+ 2058  git checkout master 
+ 2059  git checkout Nischal
+ 2060  git add . 
+ 2061  git add -m "nischal branch demo "
+ 2062  git commit -m "nischal branch demo "
+ 2063  git checkout master 
+ 2064  git checkout nichal
+ 2065  git checkout Nichal
+ 2066  git checkout Nischal
+ 2067  git checkout master 
+ 2068  git merge Nischal 
+ 2069  git checkout -b "darshan"
+ 2070  git add .
+ 2071  git commit -m "example function created "
+ 2072  git add .
+ 2073  git commit -m "example function created 2 "
+ 2074  git checkout master 
+ 2075  git merge darshan
+ 2076  git checkout master 
+ 2077  git merge darshan
+ 2078  clear 
+ 2079  git add .
+ 2080  git commit -m "example function created 3 "
+ 2081  git remote -v 
+ 2082  git remote add origin https://github.com/RohanKhanal14/github_workhop.git
+ 2083  git remote -v

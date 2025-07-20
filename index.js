@@ -17,3 +17,9 @@ function exampleFunction() {
 function exampleFunction2() {
   console.log("This is an example function.");
 }
+function exampleFunction3() {
+  console.log("This is an example function.");
+}
+function exampleFunction4() {
+  console.log("This is an example function.");
+}
