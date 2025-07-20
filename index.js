@@ -9,3 +9,8 @@ const d = "mero code track hudai xa";
 const e = "git diff ko example ho";
 
 console.log("i am in nischal branch");
+
+
+function exampleFunction() {
+  console.log("This is an example function.");
+}
