@@ -1,0 +1,15 @@
+git config --global user.email
+git config --global user.name 
+git init 
+git status
+git add <FILE_NAME>
+git status 
+git add index.js 
+  git add git_commands_used 
+  git add git_commands_used 
+  git status 
+  git rm --cached index.js 
+  git rm -f --cached index.js 
+  git add index.js 
+  git status 
+  git add .

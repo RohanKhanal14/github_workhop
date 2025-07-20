@@ -1,0 +1,9 @@
+const a = 3;
+
+const b = "mero code track hudai xa";
+
+const c = "mero code track hudai xa";
+
+const d = "mero code track hudai xa";
+
+const e = "git diff ko example ho";
